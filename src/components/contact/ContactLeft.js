@@ -11,7 +11,7 @@ const ContactLeft = () => {
         alt="contactImg"
       />
       <div className="flex flex-col gap-4">
-        <h3 className="text-3xl font-bold text-white">Saniya Siddiqui</h3>
+        <h3 className="text-3xl font-bold text-white">Saniya</h3>
         <p className="text-lg font-normal text-gray-400">
           MERN Stack Developer
         </p>
